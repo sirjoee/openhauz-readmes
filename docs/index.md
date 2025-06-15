@@ -1,2 +1,2 @@
-- [Readme](README.md)
+- [Readme](RUN.md)
 - [Deployment Guide](DEPLOYMENT.md)
